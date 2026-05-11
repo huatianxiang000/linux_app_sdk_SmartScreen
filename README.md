@@ -1,2 +1,3 @@
 # linux_app_sdk_SmartScreen
 linux智慧屏
+用于备份app_SDK文件
